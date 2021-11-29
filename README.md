@@ -3,7 +3,7 @@
 - 👀 I’m interested in ... Coding Java
 - 🌱 I’m currently learning ... nothing :(
 - 💞️ I’m looking to collaborate on ... n/a
-- 📫 How to reach me ... u just can't
+- 📫 How to reach me ... Youtube,Discord,Github,Reddit
 
 <!---
 Reddled/Reddled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
